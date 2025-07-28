@@ -1,5 +1,8 @@
 # MinGW-w64 GCC Installer for Windows 🖥️  
 
+![Windows](https://img.shields.io/badge/Windows-10+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 一个简单易用的Windows平台MinGW-w64 GCC编译器套件安装工具。🚀
 
 ## 📋 简介
